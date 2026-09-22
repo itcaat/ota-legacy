@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ota-sematary/',  // Имя репозитория на GitHub
+  base: '/ota-legacy/',  // Имя репозитория на GitHub
   server: {
     port: 3000,
     open: true

@@ -7,7 +7,7 @@ function Instructions({ onStartGame, onShowLeaderboard, onSignOut, userEmail, us
       <div className="instructions-content">
         <h2>
           <span className="icon">💀</span>
-          OTA-SEMATARY
+          ota-legacy
           <span className="icon">💀</span>
         </h2>
         

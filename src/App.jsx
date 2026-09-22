@@ -166,7 +166,7 @@ function App() {
           onPlayAnonymous={handlePlayAnonymous}
         />
         <footer className="footer">
-          <span>🎮 OTA-SEMATARY</span>
+          <span>🎮 ota-legacy</span>
           <span>•</span>
           <span>Разработано с ❤️ и Phaser 3</span>
         </footer>
@@ -184,7 +184,7 @@ function App() {
           onNicknameSet={handleNicknameSet}
         />
         <footer className="footer">
-          <span>🎮 OTA-SEMATARY</span>
+          <span>🎮 ota-legacy</span>
           <span>•</span>
           <span>Разработано с ❤️ и Phaser 3</span>
         </footer>
@@ -219,7 +219,7 @@ function App() {
         )}
         
         <footer className="footer">
-          <span>🎮 OTA-SEMATARY</span>
+          <span>🎮 ota-legacy</span>
           <span>•</span>
           <span>Разработано с ❤️ и Phaser 3</span>
         </footer>
@@ -310,7 +310,7 @@ function App() {
         )}
       </div>
       <footer className="footer">
-        <span>🎮 OTA-SEMATARY</span>
+        <span>🎮 ota-legacy</span>
         <span>•</span>
         <span>Разработано с ❤️ и Phaser 3</span>
       </footer>

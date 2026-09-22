@@ -70,7 +70,7 @@ function Auth({ onAuthSuccess, onPlayAnonymous }) {
   return (
     <div className="auth-container">
       <div className="auth-box">
-        <h2>🎮 OTA-SEMATARY</h2>
+        <h2>🎮 ota-legacy</h2>
         <p className="auth-description">
           Войдите, чтобы сохранить свой результат в рейтинге
         </p>

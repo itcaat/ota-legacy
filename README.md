@@ -70,7 +70,7 @@ npm run preview
 ## Структура проекта
 
 ```
-ota-sematary/
+ota-legacy/
 ├── src/
 │   ├── game/
 │   │   └── scenes/
